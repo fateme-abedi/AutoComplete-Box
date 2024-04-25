@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(103, 9, 121, 0.7820378151260504) 35%,
+    rgba(222, 0, 255, 0.5271358543417367) 100%
+  );
+  font-family: serif;
+  overflow: hidden;
+}
