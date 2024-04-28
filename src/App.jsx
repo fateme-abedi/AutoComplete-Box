@@ -1,5 +1,5 @@
 import './App.css'
-import AutocompleteBox from './assets/AutoCompleteBox'
+import AutocompleteBox from './components/AutoCompleteBox'
 
 function App() {
   
